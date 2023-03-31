@@ -4,7 +4,7 @@ Interactive Calendar is a Raspberry Pi project designed for use on an touch LCD 
 # Installation
 To install Interactive Calendar, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/interactive-calendar.git
+Clone the repository: git clone https://github.com/coolyer/interactive-calendar.git
 Install any dependencies: pip install -r requirements.txt
 Connect your Raspberry Pi to an LCD screen.
 
